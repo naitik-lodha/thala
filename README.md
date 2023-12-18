@@ -7,7 +7,7 @@ This project is a [Next.js](https://nextjs.org/) application styled with [Tailwi
 1. **Clone the repository:**
 
     ```bash
-    git clone naitik-lodha/thala
+    git clone https://github.com/naitik-lodha/thala.git
     cd thala
     ```
 
